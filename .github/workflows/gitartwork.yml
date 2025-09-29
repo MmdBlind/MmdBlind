@@ -1,3 +1,5 @@
+permissions:
+  contents: write
  name: gitartwork from a contribution graph
  on: 
    push:
