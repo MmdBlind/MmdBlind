@@ -13,6 +13,6 @@ permissions:
          with:
             # Use this username's contribution graph  
             user_name: MmdBlind
-            # Text on contribution graph 
+            # Text on contribution    graph 
             text: MmdBlind
        - uses: jasineri/simple-push-action@v1
